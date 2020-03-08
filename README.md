@@ -26,4 +26,5 @@ The most advanced feature is the SYNC option where azcopy will keep the source a
 
 Before copying or syncing files it is required to create a Blob Container and create a SAS token for this Container.
 
-image:: https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_ARCHITECTURE.jpg
+image:: https://github.com/praneshsoundar/ANF_SNAPSHOT_OFFLOAD_BLOB/blob/master/images/image1.PNG
+
