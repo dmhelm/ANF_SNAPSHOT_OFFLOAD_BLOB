@@ -1,7 +1,8 @@
 # ANF_SNAPSHOT_OFFLOAD_BLOB
 
-Introduction
-This demo provides step by step instructions on how to offload the ANF snapshot to BLOB storage. Currently, most of the customers i work with has a requirement to offload the snapshots to the secondary region. This can be achieved using different methods mentioned below.
+Introduction:
+
+This article provides step by step instructions on how to offload the ANF snapshot to BLOB storage. Currently, most of the customers i work with has a requirement to offload the snapshots to the secondary region. This can be achieved using different methods mentioned below.
 
   1. Snap Mirror
   2. Using Cloud Sync Manager
